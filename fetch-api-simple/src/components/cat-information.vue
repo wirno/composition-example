@@ -15,7 +15,7 @@ import CatImage from './cat-image.vue';
 
 export default {
   name: 'CatInformation',
-  async setup() {
+  setup() {
     const { fetchCat, ...payload } = useFetchCat();
     return {
       fetchCat,

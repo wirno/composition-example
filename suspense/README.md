@@ -1,4 +1,4 @@
-# fetch-api
+# Suspense exemple
 
 ## Project setup
 ```

@@ -1,4 +1,4 @@
-# fetch-api
+# fetch-api-simple
 
 ## Project setup
 ```

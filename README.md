@@ -15,6 +15,3 @@ We use the new component Suspense and the async setup fuction to handle the load
 
 ### form-validation
 In this exemple we use composition API to add somes validations on your form in a reusable way.
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
